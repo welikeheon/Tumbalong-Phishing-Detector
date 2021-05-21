@@ -1,4 +1,4 @@
-# 😷 Tumbalong Phishing Detector
+# 🙊 Tumbalong Phishing Detector
 
 ## Insanely accurate Phishing Detector
 
